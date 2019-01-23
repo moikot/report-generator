@@ -1,6 +1,6 @@
 # Docker file for ReportGenerator
 
-See more information about [RegportGenerator](https://danielpalme.github.io/ReportGenerator/).
+See more information about [ReportGenerator](https://danielpalme.github.io/ReportGenerator/).
 
 Assuming your Cobertura coverage report is in `./Report` directory, to generate the report you can use:
 
